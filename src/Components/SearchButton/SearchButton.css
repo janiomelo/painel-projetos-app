@@ -1,0 +1,10 @@
+.searchButton .btn-link{
+    color: #6c757d;
+}
+.searchButton{
+    width: auto;
+    text-align: right;
+}
+.searchButton input{
+    width: 280px;
+}

@@ -1,0 +1,36 @@
+.nav-dark {
+    background-color: #3a4248;
+}
+
+.nav-dark .nav-link {
+    font-size: 15px;
+    display: block;
+    padding: .75rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    background: 0 0;
+}
+
+.nav-dark .nav-item:hover {
+    background-color: #007bff;
+}
+
+.nav-dark .nav-link:hover svg {
+    color: #fff;
+}
+
+.nav-dark .nav-link svg {
+    display: inline-block;
+    width: 1.09375rem;
+    margin: 0 .5rem 0 0;
+    font-size: .875rem;
+    color: #73818f;
+    text-align: center;
+    transition: color .3s ease-in-out;
+}
+
+.nav-dark .nav-item {
+    position: relative;
+    margin: 0;
+    transition: background .3s ease-in-out;
+}

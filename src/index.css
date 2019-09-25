@@ -1,0 +1,8 @@
+[role="button"]{
+    cursor: pointer;
+}
+
+button:disabled,
+a:disabled{
+    cursor: not-allowed;
+}
